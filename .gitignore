@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+.vscode/
+.env
+
+# Bloquear archivos pesados de datasets y modelos
+recursos/datasets/
+recursos/pretrained_models/
+*.h5
+*.pt
+*.onnx
+*.weights
+*.yolov8

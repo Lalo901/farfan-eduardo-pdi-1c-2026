@@ -4,6 +4,7 @@ __pycache__/
 *.py[cod]
 .vscode/
 .env
+.kilo/
 
 # Bloquear archivos pesados de datasets y modelos
 recursos/datasets/
